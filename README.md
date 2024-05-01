@@ -7,7 +7,7 @@
   <tr>
     <!-- Text section -->
     <td style="padding-right: 20px;">
-      <p>📫 How to reach me <strong>debjyotirshi@gmail.com</strong></p>
+      <p>📫 How to reach me <a href="mailto:debjyotirshi@gmail.com"><strong>debjyotirshi@gmail.com</strong></a></p>
       <p><img src="https://komarev.com/ghpvc/?username=debjyotirshi2303&label=Profile%20views&color=0e75b6&style=flat" alt="debjyotirshi2303" /></p>
     </td>
     <!-- Image section -->
