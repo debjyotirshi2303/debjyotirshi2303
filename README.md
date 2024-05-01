@@ -3,15 +3,19 @@
 <h1 align="center">Hi 👋, I'm Debjyotirshi Majumder</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="center">
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=debjyotirshi2303&label=Profile%20views&color=0e75b6&style=flat" alt="debjyotirshi2303" />
-</p>
-
-- 📫 How to reach me **debjyotirshi@gmail.com**
+<table align="center">
+  <tr>
+    <!-- Text section -->
+    <td style="padding-right: 20px;">
+      <p>📫 How to reach me <strong>debjyotirshi@gmail.com</strong></p>
+      <p><img src="https://komarev.com/ghpvc/?username=debjyotirshi2303&label=Profile%20views&color=0e75b6&style=flat" alt="debjyotirshi2303" /></p>
+    </td>
+    <!-- Image section -->
+    <td>
+      <img src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" alt="Coding" width="400"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
