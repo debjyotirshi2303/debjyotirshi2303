@@ -3,12 +3,21 @@
 <h1 align="center">Hi 👋, I'm Debjyotirshi Majumder</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+
 <table align="center">
   <tr>
     <!-- Text section -->
-    <td style="padding-right: 20px;">
+    <td style="padding-right: 20px; vertical-align: top;">
+      <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=debjyotirshi2303&label=Profile%20views&color=0e75b6&style=flat" alt="debjyotirshi2303" />
+      </p>
       <p>📫 How to reach me <a href="mailto:debjyotirshi@gmail.com"><strong>debjyotirshi@gmail.com</strong></a></p>
-      <p><img src="https://komarev.com/ghpvc/?username=debjyotirshi2303&label=Profile%20views&color=0e75b6&style=flat" alt="debjyotirshi2303" /></p>
+      <h3 align="center">Connect with me:</h3>
+      <p align="center">
+        <a href="https://linkedin.com/in/debjyotirshi" target="blank">
+          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debjyotirshi" height="30" width="40" />
+        </a>
+      </p>
     </td>
     <!-- Image section -->
     <td>
@@ -16,18 +25,11 @@
     </td>
   </tr>
 </table>
-</p>
+
 
 <h2 align="center">🏆GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=debjyotirshi2303&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="debjyotirshi2303" />
-</p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/debjyotirshi" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debjyotirshi" height="30" width="40" />
-</a>
 </p>
 
 <h2 align="center">Languages and Tools </h2> 
