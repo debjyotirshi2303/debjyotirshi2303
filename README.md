@@ -16,11 +16,11 @@
     </td>
   </tr>
 </table>
+</p>
 
+<h2 align="center">🏆GitHub Trophies</h2>
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=debjyotirshi2303" alt="debjyotirshi2303" />
-</a>
+  <img src="https://github-trophies.vercel.app/?username=debjyotirshi2303&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="debjyotirshi2303" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -64,8 +64,7 @@
 |----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
 
-# 📊GitHub Stats :
-
+<h2 align="center">📊GitHub Stats :</h2>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=debjyotirshi2303&theme=radical&hide_border=false" alt="debjyotirshi2303" />
 </p>
@@ -77,7 +76,4 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=debjyotirshi2303&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="debjyotirshi2303" />
 </p>
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=debjyotirshi2303&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
