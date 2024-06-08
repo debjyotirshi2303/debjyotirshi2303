@@ -63,15 +63,21 @@
 | Linux | Ubuntu | Kali |
 |----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
-  
+
+# 📊GitHub Stats :
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=debjyotirshi2303&show_icons=true&locale=en&layout=compact" alt="debjyotirshi2303" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=debjyotirshi2303&theme=radical&hide_border=false" alt="debjyotirshi2303" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=debjyotirshi2303&show_icons=true&locale=en" alt="debjyotirshi2303" />
+<img src="https://github-readme-stats.vercel.app/api?username=debjyotirshi2303&show_icons=true&locale=en&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="debjyotirshi2303" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=debjyotirshi2303&" alt="debjyotirshi2303" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=debjyotirshi2303&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="debjyotirshi2303" />
 </p>
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=debjyotirshi2303&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
